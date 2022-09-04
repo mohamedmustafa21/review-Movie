@@ -50,6 +50,7 @@ function Login() {
         
         return (
         <div>
+            <h2>You Have To Login To See Home Page</h2>
             <div className="container h-100 ">
                 <div className="d-flex w-100 h-100 justify-content-center  ">
                 <form onSubmit={FormSubmit}className=' '>
